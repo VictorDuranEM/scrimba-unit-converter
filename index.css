@@ -61,6 +61,7 @@ h1,p {
 }
 
 .convert-btn {
+    cursor: pointer;
     background: white;
     padding : 13px 27.5px;
     border: none;
